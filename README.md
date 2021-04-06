@@ -71,3 +71,6 @@ This works on Linux, Mac and Windows.
     git add file.docx file.md
     git commit
     ```
+
+### Additional Notes
+- You can also add a `.gitconfig` file on a per repo level so you don't have to edit the `.gitconfig` on every new computer.
